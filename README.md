@@ -19,4 +19,5 @@ If you run this application locally the {baseUrl} would be http://localhost:8080
 
 All available endpoints are listed on Swagger UI page which can be entered, when application is running, under http://localhost:8080/swagger-ui.html URL.
 
+![image](https://user-images.githubusercontent.com/65066310/81662561-65424c80-945b-11ea-957f-c527f9b005b5.png)
 
