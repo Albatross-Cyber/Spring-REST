@@ -22,3 +22,21 @@ All available endpoints are listed on Swagger UI page which can be entered, when
 
 ![image](https://user-images.githubusercontent.com/65066310/81662561-65424c80-945b-11ea-957f-c527f9b005b5.png)
 
+
+
+
+
+
+
+
+
+
+
+
+### Other Useful Links
+
+
+* [Build a Complete RESTful Service using SpringBoot 2.0 and Gradle](https://medium.com/@namila007/build-a-complete-restful-service-using-springboot-2-0-and-gradle-e9e381a114d8)
+* [Noticeboard CRUD application](https://github.com/wkrzywiec/NoticeBoard#noticeboard-crud-application)
+* [Why to use Service Layer in Spring MVC](https://medium.com/stackavenue/why-to-use-service-layer-in-spring-mvc-5f4fc52643c0)
+* [Reducing Boilerplate Code in Java POJOs — Eliminating Getters/Setters and Minimizing POJO Mappings](https://medium.com/@qasim.lodhi/reducing-boilerplate-code-in-java-pojos-dont-type-getters-setters-and-get-to-set-mappings-5eab302ecf6b)
