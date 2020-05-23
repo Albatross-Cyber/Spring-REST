@@ -1,7 +1,5 @@
 # Spring-REST
 
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/e6902c13616242a497ca7e802fa9c896)](https://app.codacy.com/manual/Albatross-Cyber/Spring-REST?utm_source=github.com&utm_medium=referral&utm_content=Albatross-Cyber/Spring-REST&utm_campaign=Badge_Grade_Dashboard)
-
 Spring Boot REST API Documentation with Swagger using SpringFox.
 
 This is a simple RESTful CRUD (Create Read Update Delete) application providing set of endpoints for Creating, Retrieving, Updating and Deleting of employees saved in MySQL database.
